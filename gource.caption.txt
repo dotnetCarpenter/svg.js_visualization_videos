@@ -1,0 +1,78 @@
+1491922949|dotnetCarpenter released version tag: 2.5.2
+1490614291|Ulrich-Matthias Schäfer released version tag: 2.5.1
+1489134736|Ulrich-Matthias Schäfer released version tag: 2.5.0
+1484375364|dotnetCarpenter released version tag: 2.4.0
+1484371605|dotnetCarpenter released version tag: 2.3.7
+1477064464|dotnetCarpenter released version tag: 2.3.6
+1476372794|Ulrich-Matthias Schäfer released version tag: 2.3.5
+1470307349|wout released version tag: 2.3.4
+1470156288|Ulrich-Matthias Schäfer released version tag: 2.3.3
+1466496198|Ulrich-Matthias Schäfer released version tag: 2.3.2
+1462455579|Ulrich-Matthias Schäfer released version tag: 2.3.1
+1459293567|Ulrich-Matthias Schäfer released version tag: 2.3.0
+1457007733|Ulrich-Matthias Schäfer released version tag: 1.1.1, origin/svg.js_v1.x
+1451391452|Ulrich-Matthias Schäfer released version tag: 2.2.5
+1449878027|Ulrich-Matthias Schäfer released version tag: 2.2.4
+1448920033|Ulrich-Matthias Schäfer released version tag: 2.2.3
+1448707106|Ulrich-Matthias Schäfer released version tag: 2.2.2
+1447854197|Ulrich-Matthias Schäfer released version tag: 2.2.1
+1446847737|Ulrich-Matthias Schäfer released version tag: 2.2.0
+1443823677|Ulrich-Matthias Schäfer released version tag: 2.1.1
+1442770436|Ulrich-Matthias Schäfer released version tag: 2.1.0
+1436053718|Ulrich-Matthias Schäfer released version tag: 2.0.5
+1435519569|Ulrich-Matthias Schäfer released version tag: 2.0.4
+1435406603|Ulrich-Matthias Schäfer released version tag: 2.0.3
+1435003867|Ulrich-Matthias Schäfer released version tag: 2.0.2
+1434905866|Ulrich-Matthias Schäfer released version tag: 2.0.1
+1433978275|Ulrich-Matthias Schäfer released version tag: 2.0.0
+1432569648|Ulrich-Matthias Schäfer released version tag: 1.1.0
+1409930138|wout released version tag: 1.0.1
+1409899430|wout released version tag: 2.0.0-rc.1
+1409311881|Wout released version tag: 1.0.0
+1402580437|wout released version tag: 1.0.0-rc.9
+1402562557|wout released version tag: 1.0.0-rc.8
+1402400355|Wout released version tag: 1.0.0-rc.7
+1392923456|wout released version tag: 1.0.0-rc.6
+1391609832|wout released version tag: 1.0.0-rc.5
+1391521669|wout released version tag: 1.0.0-rc.4
+1391375501|wout released version tag: 1.0.0-rc.3
+1391250375|wout released version tag: 1.0.0-rc.2
+1390920483|wout released version tag: 1.0.0-rc.1
+1390913291|wout released version tag: 0.38
+1390663685|wout released version tag: 0.37
+1390560171|wout released version tag: 0.36
+1390505596|wout released version tag: 0.35
+1390421378|wout released version tag: 0.34
+1377238521|wout released version tag: 0.33
+1375376618|wout released version tag: 0.32
+1374826654|wout released version tag: 0.31
+1374781022|wout released version tag: 0.30
+1374595814|wout released version tag: 0.29
+1374497540|wout released version tag: 0.28
+1374264356|wout released version tag: 0.27
+1372775189|wout released version tag: 0.26
+1372709636|wout released version tag: 0.25
+1372663578|wout released version tag: 0.24
+1372497717|wout released version tag: 0.23
+1372347549|wout released version tag: 0.22
+1372170460|wout released version tag: 0.21
+1370968820|wout released version tag: 0.20
+1370775007|wout released version tag: 0.19
+1370371485|wout released version tag: 0.18
+1369772191|wout released version tag: 0.17
+1369751112|wout released version tag: 0.16
+1366621045|wout released version tag: 0.15
+1366028240|wout released version tag: 0.14
+1365666740|wout released version tag: 0.13
+1364465770|wout released version tag: 0.12
+1363178809|wout released version tag: 0.11
+1362864527|wout released version tag: 0.10
+1362643647|wout released version tag: 0.9
+1362475953|wout released version tag: 0.8
+1361471855|wout released version tag: 0.7
+1361383803|wout released version tag: 0.6
+1359822865|wout released version tag: 0.5
+1359558003|wout released version tag: 0.4
+1359364960|wout released version tag: 0.3
+1359315138|wout released version tag: 0.2
+1356110442|wout released version tag: 0.1
