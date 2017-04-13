@@ -10,7 +10,7 @@ Commands for Gource
 ### To get the caption log data from git:
 
 ```
-cd svg.js && git log --no-walk --tags --pretty="%at|%an released version %D | sort"
+cd svg.js && git log --no-walk --tags --pretty="%at|%an released version %D" | sort
 ```
 
 ### To create a video
