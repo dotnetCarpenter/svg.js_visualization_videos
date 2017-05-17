@@ -76,3 +76,6 @@
 1489134736|Ulrich-Matthias Schäfer released version tag: 2.5.0
 1490614291|Ulrich-Matthias Schäfer released version tag: 2.5.1
 1491922949|dotnetCarpenter released version tag: 2.5.2
+1492442030|Ulrich-Matthias Schäfer released version tag: 2.5.3
+1492771765|Ulrich-Matthias Schäfer released version tag: 2.6.0
+1493114849|Ulrich-Matthias Schäfer released version tag: 2.6.1
