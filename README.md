@@ -1,7 +1,8 @@
 Get the svg.js repo
 ===================
 
-`git submodules update`
+`git clone --recurse-submodules git@github.com:dotnetCarpenter/svg.js_visualization_videos.git`
+or `git submodule update --init`
 
 
 Commands for Gource
